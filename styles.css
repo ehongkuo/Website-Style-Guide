@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Archivo', sans-serif;
+}
+
+h2 {
+    font-family: 'Archivo', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.candy-pink {
+    background-color: #e7717d;
+}
