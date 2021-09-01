@@ -1,5 +1,5 @@
 h1 {
-    font-family: 'Archivo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
@@ -8,6 +8,12 @@ h2 {
 
 p {
     font-family: 'Open Sans', sans-serif;
+}
+
+section {
+    border: 3px solid lightgray;
+    margin: 20px auto;
+    padding: 20px 50px;
 }
 
 .color-panel {
@@ -19,4 +25,21 @@ p {
 
 .candy-pink {
     background-color: #e7717d;
+}
+
+.green-yellow {
+    background-color: #afd275;
+}
+
+.gray {
+    background-color: #c2cad0;
+}
+
+.pastel-brown {
+    background-color: #7e685a;
+    color: white;
+}
+
+.tan {
+    background-color: #c2b9b0;
 }
