@@ -16,3 +16,6 @@ This project was created with:
 
 ## Snapshots
 To see this webiste, it can be run locally or seen in these snapshots below:
+![Colors](snapshots/Colors.png "colors")
+![Fonts](snapshots/Fonts.png "fonts")
+![Styles](snapshots/styles.png "styles")
