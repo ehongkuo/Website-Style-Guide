@@ -43,3 +43,32 @@ section {
 .tan {
     background-color: #c2b9b0;
 }
+
+.font-panel {
+    display: block;
+    margin: 40px auto;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.archivo {
+    font-family: 'Archivo', sans-serif;
+}
+
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.family {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
