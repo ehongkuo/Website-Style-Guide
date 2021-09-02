@@ -19,4 +19,4 @@ To see this webiste, it can be run locally or seen in these snapshots below:
 
 ![Colors](snapshots/Colors.png "Colors")
 ![Fonts](snapshots/Fonts.png "Fonts")
-![Text](snapshots/style.png "Text")
+![Text](snapshots/styles.png "Text")
