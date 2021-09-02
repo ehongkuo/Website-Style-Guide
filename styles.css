@@ -49,15 +49,15 @@ section {
     margin: 40px auto;
 }
 
-.montserrat {
+.montserrat p {
     font-family: 'Montserrat', sans-serif;
 }
 
-.archivo {
+.archivo p {
     font-family: 'Archivo', sans-serif;
 }
 
-.open-sans {
+.open-sans p {
     font-family: 'Open Sans', sans-serif;
 }
 
