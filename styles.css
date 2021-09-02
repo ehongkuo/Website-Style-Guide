@@ -61,14 +61,40 @@ section {
     font-family: 'Open Sans', sans-serif;
 }
 
-.family {
+p.family {
     text-decoration: underline;
 }
 
-.bold {
+p.bold {
     font-weight: bold;
 }
 
-.italic {
+p.italic {
     font-style: italic;
+}
+
+.text-styles-panel {
+    margin: 40px auto;
+}
+
+p.main {
+    font-weight: bold;
+    font-size: 26px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p.sub {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Archivo', sans-serif;
+}
+
+p.paragraph {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-styles-panel ul {
+    font-family: 'Open Sans', sans-serif;
 }
