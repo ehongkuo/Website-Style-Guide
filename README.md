@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [Snapshots](#snapshots)
 
-## General info
+## General Info
 This project is a general style guide for creating a lively and inviting website for many modern uses!
 This local website was good practice for me to practice usage of the CSS box-model, display and positioning features, and importing typography from Google Fonts!
 
@@ -16,6 +16,7 @@ This project was created with:
 
 ## Snapshots
 To see this webiste, it can be run locally or seen in these snapshots below:
-![Colors](snapshots/Colors.png "colors")
-![Fonts](snapshots/Fonts.png "fonts")
-![Styles](snapshots/styles.png "styles")
+
+![Colors](snapshots/Colors.png "Colors")
+![Fonts](snapshots/Fonts.png "Fonts")
+![Text](snapshots/style.png "Text")
